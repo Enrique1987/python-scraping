@@ -2,7 +2,7 @@
 
 These code samples are for the book <a href="http://shop.oreilly.com/product/0636920078067.do">Web Scraping with Python 2nd Edition</a>
 
-If you're looking for the first edition code files, they can be found in the <a href="https://github.com/REMitchell/python-scraping/tree/master/v1">v1</a> directory.
+If you're looking for the first edition code files, they can be found in the <a href="https://github.com/REMitchell/python-scraping/tree/846266677c973db3bf1be0495a6a32b7b03cba3f/v1">archived v1 directory</a> (pinned before its removal from the current branch).
 
 Most code for the second edition is contained in <a href="https://jupyter.org/install.html">Jupyter notebooks</a>. Although these files can be viewed directly in your browser in Github, some formatting changes and oddities may occur. I recommend that you clone the repository, install Jupyter, and view them locally for the best experience.
 
